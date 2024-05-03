@@ -45,28 +45,23 @@ This Python script analyzes ice cream ratings data stored in a CSV file using th
 
     - **Histogram:** The distribution of ratings is visualized using a histogram.
 
-    ![Histogram](/screenshots/histogram.png)
+<img width="482" alt="image" src="https://github.com/Raezoxc/Data_Visualization_Python/assets/153198226/09b5489d-7e3a-48b5-845c-a7025d8cf0e0">
 
     - **Box Plot:** A box plot is generated to show the distribution of ratings and identify any outliers.
 
-    ![Box Plot](/screenshots/box_plot.png)
+<img width="488" alt="image" src="https://github.com/Raezoxc/Data_Visualization_Python/assets/153198226/a1734c41-63d4-41b0-bfb6-bf7900644eda">
 
     - **Area Plot:** An area plot is created to visualize the cumulative sum of ratings over time.
 
-    ![Area Plot](/screenshots/area_plot.png)
+<img width="485" alt="image" src="https://github.com/Raezoxc/Data_Visualization_Python/assets/153198226/678930f6-82a4-4a25-bbab-d5eec8ffa0fa">
 
     - **Pie Chart:** A pie chart is generated to represent the distribution of ratings for different flavors of ice cream.
 
-    ![Pie Chart](/screenshots/pie_chart.png)
+<img width="485" alt="image" src="https://github.com/Raezoxc/Data_Visualization_Python/assets/153198226/e433d3cc-3a52-40d7-907d-a95813541b29">
 
 ## Output
 
 The script produces various visualizations to analyze the ice cream ratings data and gain insights into the quality and popularity of different flavors.
 
 ## Author
-
-[Your Name]
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Ravi Mhatre

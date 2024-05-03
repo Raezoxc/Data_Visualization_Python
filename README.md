@@ -1,4 +1,4 @@
-# Ice Cream Ratings Analysis sxcs
+# Ice Cream Ratings Analysis
 
 ## Overview
 
